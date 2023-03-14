@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c22b161c1dbdb5d4ba4af66d08443f21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StudentList: {fileID: 4900000, guid: 4774b1e5592581a4fa9ccf4298df7c00, type: 3}
+  StudentList: {fileID: 4900000, guid: 0c15e83ec4eadc041a0b471d011401eb, type: 3}
 --- !u!4 &6791259
 Transform:
   m_ObjectHideFlags: 0
@@ -366,7 +366,7 @@ GameObject:
   - component: {fileID: 831501489}
   - component: {fileID: 831501488}
   m_Layer: 5
-  m_Name: Image
+  m_Name: DialogPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
